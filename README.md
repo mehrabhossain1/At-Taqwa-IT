@@ -1,8 +1,8 @@
-# Abdullah Agency - Next.js, Tailwind CSS & Framer Motion
+# At-Taqwa IT Agency - Next.js, Tailwind CSS & Framer Motion
 
-![Abdullah Agency](/public/agency.PNG)
+![At-Taqwa IT Agency](/public/agency.PNG)
 
-Abdullah Agency is a stunning multi-page agency website template developed using Next.js, Tailwind CSS, and Framer Motion. Designed and built by the talented Tailwind CSS team, this template offers a sleek and minimalist appearance while boasting engaging interactive elements and captivating animations powered by Framer Motion.
+At-Taqwa IT Agency is a stunning multi-page agency website template developed using Next.js, Tailwind CSS, and Framer Motion. Designed and built by the talented Tailwind CSS team, this template offers a sleek and minimalist appearance while boasting engaging interactive elements and captivating animations powered by Framer Motion.
 
 ## Features
 
@@ -15,10 +15,10 @@ Abdullah Agency is a stunning multi-page agency website template developed using
 
 ## Getting Started
 
-To run the Abdullah Agency website locally, follow these steps:
+To run the At-Taqwa IT Agency website locally, follow these steps:
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/abdullah-agency.git
+   git clone https://github.com/your-username/At-Taqwa IT-agency.git
    ```
